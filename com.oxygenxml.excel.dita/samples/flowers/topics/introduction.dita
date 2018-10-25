@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="introduction">
+    <title>Introduction</title>
+    <shortdesc>Any flower garden can be a
+        vibrantly colored environment.</shortdesc>
+    <body>
+        <table conref="../sample.xls#sample/sample">
+            <tgroup cols="1">
+                <tbody>
+                    <row>
+                        <entry></entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <p>With just a little bit of care and preparation, any flower garden can be a vibrantly
+            colored environment. Flowers can be selected for specific blooming seasons, colors and
+            shapes. Both annual and 
+            flower gardens can be planted depending on climate and specific needs.</p>
+    </body> 
+</topic>

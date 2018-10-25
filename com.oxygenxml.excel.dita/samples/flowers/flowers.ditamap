@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+  <title>Growing Flowers</title>
+  <topicref href="sample.xls" format="excel"/>
+  <topicref href="topics/introduction.dita">
+    <topicmeta>
+      <data name="wh-tile">
+        <data name="hide" value="yes"/>
+      </data>
+    </topicmeta>
+  </topicref>
+</map>
