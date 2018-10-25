@@ -203,7 +203,7 @@ public class ExcelReader implements XMLReader {
 						colCount++;
 						Cell currentCell = cellIterator.next();
 						rowData.append("<entry class='- topic/entry '>");
-						rowData.append(getImportRepresentation(currentCell, true));
+						rowData.append(getImportRepresentation(currentCell, true).replace("<", "&lt;").replace("&", "&amp;"));
 						rowData.append("</entry>");
 					}
 					if(colCount > maxColCount) {
