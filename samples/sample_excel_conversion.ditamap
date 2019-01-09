@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Sample Excel Conversion</title>
+    <topicref href="simpleTT.xlsx" format="excel" processing-role="resource-only"/>
+    <topicref href="sample_topic.dita"/>
+</map>
