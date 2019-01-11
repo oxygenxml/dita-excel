@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin id="com.oxygenxml.excel.dita">
-  <feature extension="dita.conductor.lib.import" file="lib/excelDita.jar"/>
-  <feature extension="dita.conductor.lib.import" file="lib/poi-3.10-FINAL-20140208.jar"/>
+  <feature extension="dita.conductor.lib.import" file="lib/excel.dita-1.0.jar"/>
+  <feature extension="dita.conductor.lib.import" file="lib/poi-ooxml-3.10-FINAL.jar"/>
+  <feature extension="dita.conductor.lib.import" file="lib/poi-3.10-FINAL.jar"/>
+  <feature extension="dita.conductor.lib.import" file="lib/poi-ooxml-schemas-3.10-FINAL.jar"/>
   <feature extension="dita.conductor.lib.import" file="lib/dom4j-1.6.1.jar"/>
-  <feature extension="dita.conductor.lib.import" file="lib/poi-ooxml-3.10-FINAL-20140208.jar"/>
-  <feature extension="dita.conductor.lib.import" file="lib/poi-ooxml-schemas-3.10-FINAL-20140208.jar"/>
   <feature extension="dita.conductor.lib.import" file="lib/xmlbeans-2.3.0.jar"/>
+  <feature extension="dita.conductor.lib.import" file="lib/commons-codec-1.5.jar"/>
+  <feature extension="dita.conductor.lib.import" file="lib/stax-api-1.0.1.jar"/>
+  <feature extension="dita.conductor.lib.import" file="lib/xml-apis-1.0.b2.jar"/>
+  
   <feature extension="dita.parser">
     <parser format="excel" class="com.oxygenxml.excel.dita.ExcelReader"/>
   </feature>

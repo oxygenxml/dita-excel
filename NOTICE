@@ -1,0 +1,10 @@
+=========================================================================
+==  NOTICE file corresponding to the section 4 d of                    ==
+==  the Apache License, Version 2.0,                                   ==
+==  in this case for the dita-excel distribution.          			   ==
+=========================================================================
+This product includes software from the following projects:
+
+poi-ooxml-3.10-FINAL.jar
+Site: http://poi.apache.org/
+License: Apache License 2.0 ( http://www.apache.org/licenses/LICENSE-2.0)
