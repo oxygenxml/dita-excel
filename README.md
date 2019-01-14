@@ -15,7 +15,7 @@ Note: If you are using Oxygen, you can run the DITA OT Integrator by following t
 
 Copyright and License
 ---------------------
-Copyright 2018 Syncro Soft SRL.
+Copyright 2019 Syncro Soft SRL.
 
 This project is licensed under [Apache License 2.0](https://github.com/oxygenxml/dita-excel/blob/master/LICENSE)
 
