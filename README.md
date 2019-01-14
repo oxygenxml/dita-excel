@@ -11,7 +11,7 @@ The plugin should work with both DITA Open Toolkit 2.5.4 and 3.2.1. To install t
     - Unzip and copy the "com.oxygenxml.excel.dita" folder to the "DITA-OT-DIR\plugins" folder.
     - Run the DITA OT integrator (https://www.dita-ot.org/dev/topics/plugins-installing.html)
 
-Note: If you are using Oxygen, you can run the DITA OT Integrator by following this procedure: https://www.oxygenxml.com/doc/versions/topics/dita-ot-install-plugin.html
+Note: If you are using Oxygen, you can run the DITA OT Integrator by following this procedure: https://www.oxygenxml.com/doc/ug-editor/topics/dita-ot-install-plugin.html
 
 Copyright and License
 ---------------------
