@@ -5,6 +5,16 @@
 	<artifactId>excel.dita</artifactId>
 	<version>1.0</version>
 
+    <developers>
+      <developer>
+        <name>Radu Coravu</name>
+        <email>radu_coravu@sync.ro</email>
+        <roles>
+          <role>manager</role>
+        </roles>
+      </developer>
+    </developers>
+
 	<dependencies>
 		<!-- https://mvnrepository.com/artifact/org.apache.poi/poi-ooxml -->
 		<dependency>
